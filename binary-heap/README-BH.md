@@ -1,4 +1,4 @@
-# binary-search-tree
+# binary-heap
 This is an implementation of a binary heap.
 
 In SimpleEmergencyRoom.java, the patients are filled into an Array List in the order they arrive.
