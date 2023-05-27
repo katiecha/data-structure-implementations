@@ -1,6 +1,5 @@
 package linked_list;
 
-
 public class NodeImpl<T> implements Node<T> {
 
     private T _value;
